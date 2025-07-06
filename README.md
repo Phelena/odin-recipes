@@ -1,1 +1,2 @@
 # odin-recipes
+This is the first "project" of The Odin Project. I am already more experienced with HTML than the project assumes, but I'm doing the projects in sequential order. This project also serves as an introduction to git and github for me, as the Odin Project likes using it for everything, and I have otherwise not used git except for cloning other developers' repos.
